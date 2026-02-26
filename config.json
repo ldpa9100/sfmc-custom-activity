@@ -28,7 +28,7 @@
         }
       ],
       "outArguments": [],
-      "url": "https://sfmc-custom-activity-v37i.onrender.com",
+      "url": "https://webhook.site/1d1bb55c-bda3-40eb-b89a-dfb6f5a0dca6",
       "verb": "POST",
       "body": "",
       "header": "",
@@ -40,15 +40,15 @@
   "configurationArguments": {
     "applicationExtensionKey": "d3141e2e-656f-4956-ac2e-17b93d0aa842",
     "save": {
-      "url": "https://sfmc-custom-activity-v37i.onrender.com/save",
+      "url": "https://webhook.site/1d1bb55c-bda3-40eb-b89a-dfb6f5a0dca6/save",
       "verb": "POST"
     },
     "publish": {
-      "url": "https://sfmc-custom-activity-v37i.onrender.com/publish",
+      "url": "https://webhook.site/1d1bb55c-bda3-40eb-b89a-dfb6f5a0dca6/publish",
       "verb": "POST"
     },
     "validate": {
-      "url": "https://sfmc-custom-activity-v37i.onrender.com/validate",
+      "url": "https://webhook.site/1d1bb55c-bda3-40eb-b89a-dfb6f5a0dca6/validate",
       "verb": "POST"
     }
   },
