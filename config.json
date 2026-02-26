@@ -28,7 +28,7 @@
         }
       ],
       "outArguments": [],
-      "url": "REEMPLAZAR_CON_URL_DE_TU_APP",
+      "url": "https://sfmc-custom-activity-v37i.onrender.com",
       "verb": "POST",
       "body": "",
       "header": "",
@@ -38,17 +38,17 @@
     }
   },
   "configurationArguments": {
-    "applicationExtensionKey": "REEMPLAZAR_CON_TU_APP_EXTENSION_KEY",
+    "applicationExtensionKey": "d3141e2e-656f-4956-ac2e-17b93d0aa842",
     "save": {
-      "url": "REEMPLAZAR_CON_URL_DE_TU_APP/save",
+      "url": "https://sfmc-custom-activity-v37i.onrender.com/save",
       "verb": "POST"
     },
     "publish": {
-      "url": "REEMPLAZAR_CON_URL_DE_TU_APP/publish",
+      "url": "https://sfmc-custom-activity-v37i.onrender.com/publish",
       "verb": "POST"
     },
     "validate": {
-      "url": "REEMPLAZAR_CON_URL_DE_TU_APP/validate",
+      "url": "https://sfmc-custom-activity-v37i.onrender.com/validate",
       "verb": "POST"
     }
   },
@@ -63,7 +63,7 @@
       "height": 400,
       "width": 600,
       "fullscreen": false,
-      "url": "REEMPLAZAR_CON_URL_DE_TU_APP/index.html"
+      "url": "https://sfmc-custom-activity-v37i.onrender.com/index.html"
     }
   }
 }
